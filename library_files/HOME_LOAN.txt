@@ -1,0 +1,2 @@
+type;id;title;author;tags;maxDays;borrowed
+HOME_LOAN;1;Algebra;Math Teacher;;21;true
