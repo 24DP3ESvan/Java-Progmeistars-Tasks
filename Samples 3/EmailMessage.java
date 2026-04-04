@@ -1,14 +1,14 @@
 package com.example.notifications;
 
-public class ChatMessage extends Message {
+public class EmailMessage extends MessageRepository {
 
     private String channel;
 
-    public ChatMessage(String sender, String recipient, String text) {
+    public EmailMessage(String sender, String recipient, String text) {
         this(sender, recipient, "general", text);
     }
 
-    public ChatMessage(String sender, String recipient, String channel, String text) {
+    public EmailMessage(String sender, String recipient, String channel, String text) {
         super(sender, recipient, text);
         this.channel = channel;
     }
