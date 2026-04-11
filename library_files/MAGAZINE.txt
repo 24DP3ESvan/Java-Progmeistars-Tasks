@@ -1,2 +1,0 @@
-type;id;title;author;tags;maxDays;borrowed
-MAGAZINE;2;Science Monthly;Editorial;;;false

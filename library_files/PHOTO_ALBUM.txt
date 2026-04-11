@@ -1,2 +1,0 @@
-type;id;title;author;tags;maxDays;borrowed
-PHOTO_ALBUM;3;Nature Photos;Photographer;;30;false
