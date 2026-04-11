@@ -1,2 +1,0 @@
-type;id;title;author;tags;maxDays;borrowed
-NEWSPAPER;3;Daily News;Editorial;;;false
