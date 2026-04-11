@@ -1,0 +1,2 @@
+type;id;title;author;tags;maxDays;borrowed
+READING_ROOM;1;History of Latvia;Teacher;;;false

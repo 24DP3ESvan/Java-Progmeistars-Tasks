@@ -1,0 +1,2 @@
+type;id;title;author;tags;maxDays;borrowed
+CHILDREN_BOOK;2;Harry Potter;Rowling;;14;true
